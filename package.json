@@ -94,7 +94,7 @@
     "mocha": "^2.3.4",
     "node-watch": "^0.3.4",
     "react-addons-test-utils": "^0.14.0",
-    "react-transform-catch-errors": "^1.0.0",
+    "react-transform-catch-errors": "^1.0.1",
     "react-transform-hmr": "^1.0.0",
     "redbox-react": "^1.0.4",
     "webpack-hot-middleware": "^2.0.2"
